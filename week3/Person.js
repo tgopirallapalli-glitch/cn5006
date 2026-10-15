@@ -14,4 +14,4 @@ class Person {
     }
 }
 
-GPUShaderModule.exports = Person;
+module.exports = Person;

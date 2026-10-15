@@ -22,7 +22,7 @@ const EmpSkills= (skills,Name,LabGrp)=> {
 EmpSkills("Java","3201799 ","19 Lab Grp")
 
 /* third exercise */
-const student= require('./StudentInfo')
+const student= require('./Studentinfo')
 const person = require('./Person')
 
 console.log("Student Name:" +student.getName())
